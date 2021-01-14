@@ -4,4 +4,4 @@ Simply highlight key words in a section of text that you would like to fact-chec
 
 This extension works by accepting user input through the form field as a string, then parsing the string for any irregularities, URL encoding and formatting the string, and opening a hyperlink to the selected fact-checking site with the string as the search query. The highlight functionality is enabled by injecting a content script into the webpage that listens for a request from the extension and then sends the selected text to the extension.
 
-By providing quick, easy access to fact-checking, TruthSniper will help combat misinformation and aid users in finding clarity in their online browsing.# TruthSniper
+By providing quick, easy access to fact-checking, TruthSniper will help combat misinformation and aid users in finding clarity in their online browsing.
